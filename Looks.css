@@ -1,0 +1,52 @@
+body{
+    padding: 15px;
+    text-align: justify;
+    background-color: whitesmoke;
+    color: black;
+}
+header{
+    height: fit-content;
+    display: block;
+    margin-bottom: 2em;
+}
+/*Hi there hello ! How are you ?*/
+#heading1{
+    padding: 4px;
+    background-color: black;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+.main{
+    font-family:serif ;
+   
+}
+.navigation{
+    background-color: aqua;
+    opacity: 0.6;
+    padding: 10px;
+    font-family: sans-serif;
+    color: black;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    float: none;
+    height: 3vh;
+}
+#nav{
+    height: 4vh;
+   
+
+}
+.navlink{
+    text-decoration: none;
+}
+.navlink:hover{
+    text-decoration-color: red;
+    font-weight: bold;
+}
+#link1{
+    text-decoration: none;
+}
+

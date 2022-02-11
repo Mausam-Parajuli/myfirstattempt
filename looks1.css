@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    text-align: justify;
+}
+.link{
+    text-decoration: none;
+    color: wheat;
+}
+.link:hover{
+    font-weight: bolder;
+    color: rebeccapurple;
+}
+div{
+    padding: 2px;
+    margin: 2px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+    height: 3%;
+
+   
+
+}
